@@ -1370,92 +1370,28 @@
         size = 40250
     }
 }
-#Hellas Region (510000)
+#Hellas Region (750000)
 #under the rule of Greece in 1836
-#Athens (308000/77000 POPS)
+#Athens (40000/10000 POPS)
 834 = {
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 500
+        size = 50
     }
 
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 850
+        size = 130
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 20
     }
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 775
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 1000
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 2100
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 40175
-    }
-
-    artisans = {
-        culture = albanian
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = albanian
-        religion = orthodox
-        size = 1075
-    }
-}
-#Amfissa (76000/19000 POPS)
-835 = {
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 10050
-    }
-}
-#Lamia (44000/11000 POPS)
-836 = {
     clergymen = {
         culture = greek
         religion = orthodox
@@ -1465,87 +1401,151 @@
     artisans = {
         culture = greek
         religion = orthodox
-        size = 500
+        size = 100
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 400
+        size = 100
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 9200
+        size = 9350
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 100
     }
 }
-#Missolonghi (140000/35000 POPS)
-837 = {
+#Amfissa (20000/5000 POPS)
+835 = {
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 350
+        size = 50
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 350
+        size = 200
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 1100
+        size = 200
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 37000
+        size = 4550
+    }
+}
+#Lamia (20000/5000 POPS)
+836 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4550
+    }
+}
+#Missolonghi (20000/5000 POPS)
+837 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4500
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 4000
+        size = 300
     }
 }
-#Khalkis (68000/17000 POPS)
+#Khalkis (30000/7500 POPS)
 838 = {
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 150
+        size = 50
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 350
+        size = 150
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 500
+        size = 200
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 9100
+        size = 7100
     }
 }
 #Peloponnese Region (220000)
 #under the rule of Greece in 1836
-#Nafplion (72000/18000 POPS)
+#Lakonia (60000/15000 POPS)
 839 = {
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 170
+        size = 150
     }
 
     artisans = {
@@ -1563,13 +1563,13 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 600
+        size = 200
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 10070
+        size = 13250
     }
 }
 #Corinth (40000/10000 POPS)
@@ -1671,19 +1671,53 @@
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 1100
+        size = 100
     }
 
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 60
+        size = 100
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 7400
+    }
+}
+#Aegean Islands Region (184000)
+#under the rule of Greece in 1836
+#Cyclades (100000/25000 POPS)
+845 = {
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 50
     }
 
     clergymen = {
@@ -1695,53 +1729,19 @@
     artisans = {
         culture = greek
         religion = orthodox
-        size = 900
+        size = 1550
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 1500
+        size = 2100
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 50000
-    }
-}
-#Aegean Islands Region (184000)
-#under the rule of Greece in 1836
-#Cyclades (40000/10000 POPS)
-845 = {
-    bureaucrats = {
-        culture = greek
-        religion = orthodox
-        size = 15
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 85
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 8400
+        size = 21200
     }
 }
 #under the rule of Ottoman Empire in 1836
@@ -2199,6 +2199,7 @@
         size = 250
     }
 }
+#New Regions
 #Isthmos (10000/2500 POPS)
 3503 = {
     clergymen = {
@@ -2235,5 +2236,392 @@
         culture = albanian
         religion = orthodox
         size = 50
+    }
+}
+#Argolida (40000/10000 POPS)
+3504 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 9100
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 250
+    }
+}
+#Arcadia (120000/30000 POPS)
+3505 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 27300
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 750
+    }
+}
+#Messinia (40000/10000 POPS)
+3506 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 7400
+    }
+}
+
+#Ilidos (40000/10000 POPS)
+3507 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 7400
+    }
+}
+#Fokis (60000/12500 POPS)
+3508 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 9900
+    }
+}
+#Aetolia (20000/5000 POPS)
+3509 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4500
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 300
+    }
+}
+#Evritania (20000/5000 POPS)
+3510 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4500
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 300
+    }
+}
+#Sporades (10000/2500 POPS)
+3511 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 10
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 2400
+    }
+}
+#Triphonia (40000/10000 POPS)
+3512 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 7400
+    }
+}
+#Mani (30000/7500 POPS)
+3513 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4400
     }
 }
