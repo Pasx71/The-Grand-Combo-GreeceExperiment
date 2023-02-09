@@ -923,10 +923,10 @@ country_event = {
 
 	trigger = {
 		has_global_flag = corinth_under_construction
-		owns = 840
+		owns = 3503
 
 		NOT = {
-			840 = { has_province_modifier = corinth_canal_construction }
+			3503 = { has_province_modifier = corinth_canal_construction }
 		}
 	}
 
@@ -950,11 +950,11 @@ country_event = {
 		name = "EVTOPTB36985"
 		money = -10000
 		random_list = {
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 1095 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 1460 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 1825 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 2190 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 2555 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 1095 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 1460 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 1825 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 2190 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 2555 } } }
 		}
 		clr_global_flag = corinth_under_construction
 		set_global_flag = corinth_under_construction_2
@@ -979,10 +979,10 @@ country_event = {
 
 	trigger = {
 		has_global_flag = corinth_under_construction_2
-		owns = 840
+		owns = 3503
 
 		NOT = {
-			840 = { has_province_modifier = corinth_canal_construction }
+			3503 = { has_province_modifier = corinth_canal_construction }
 		}
 	}
 
@@ -1000,11 +1000,11 @@ country_event = {
 		name = "EVTOPTB36986"
 		money = -40000
 		random_list = {
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 365 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 548 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 730 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 913 } } }
-			20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 1095 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 365 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 548 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 730 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 913 } } }
+			20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 1095 } } }
 		}
 		clr_global_flag = corinth_under_construction_2
 		set_global_flag = corinth_under_construction_3
@@ -1029,10 +1029,10 @@ country_event = {
 
 	trigger = {
 		has_global_flag = corinth_under_construction_3
-		owns = 840
+		owns = 3503
 
 		NOT = {
-			840 = { has_province_modifier = corinth_canal_construction }
+			3503 = { has_province_modifier = corinth_canal_construction }
 		}
 	}
 
@@ -1043,6 +1043,7 @@ country_event = {
 		clr_global_flag = corinth_under_construction_3
 		prestige = 50
 		enable_canal = 7
-		840 = { set_province_flag = corinth_canal }
+		3503 ={ trade_goods = precious_goods
+		 set_province_flag = corinth_canal }
 	}
 }
