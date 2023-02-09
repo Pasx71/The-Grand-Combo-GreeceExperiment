@@ -127629,4 +127629,61 @@
         naval_base = 2.313966
     }
 
+} # Isthmos
+
+3503 = {
+    text_position = {
+        x = 3746.650000
+        y = 2027.950000
+    }
+
+    text_rotation = 5.647732
+    text_scale = 1
+    unit = {
+        x = 3749.000000
+        y = 2028.650000
+    }
+
+    city = {
+        x = 3748.550000
+        y = 2028.300000
+    }
+
+    factory = {
+        x = 3748.100000
+        y = 2029.150000
+    }
+
+    building_construction = {
+        x = 3749.450000
+        y = 2027.900000
+    }
+
+    military_construction = {
+        x = 3744.800000
+        y = 2025.600000
+    }
+
+    building_position = {
+        fort = {
+            x = 3749.850000
+            y = 2028.600000
+        }
+
+        railroad = {
+            x = 3745.300000
+            y = 2026.200000
+        }
+
+        naval_base = {
+            x = 3743.400000
+            y = 2029.400000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 2.363237
+    }
+
 }
