@@ -2874,6 +2874,12 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_wonder_victoria_falls.tga"
 		norefcount = yes
 	}
+	
+		spriteType = {
+		name = "GFX_terrainimg_canal_corinth"
+		texturefile = "gfx\\interface\\terrain_canal_corinth.tga"
+		norefcount = yes
+	}
 
 	spriteType = {
 		name = "GFX_invest_rail_button"
