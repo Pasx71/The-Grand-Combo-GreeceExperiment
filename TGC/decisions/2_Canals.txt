@@ -487,7 +487,7 @@ political_decisions = {
 		picture = build_panama_canal
 
 		potential = {
-			owns = 840
+			owns = 3503
 			OR = {
 				tag = GRE
 				tag = BYZ
@@ -520,11 +520,11 @@ political_decisions = {
 			set_global_flag = corinth_under_construction
 
 			random_list = {
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 1825 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 2190 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 2555 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 2920 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 3285 } } }
+				20 = { 3503= { add_province_modifier = { name = corinth_canal_construction duration = 1825 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 2190 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 2555 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 2920 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 3285 } } }
 			}
 		}
 
@@ -545,7 +545,7 @@ political_decisions = {
 		picture = build_panama_canal
 
 		potential = {
-			owns = 840
+			owns = 3503
 			has_global_flag = corinth_canal_useless
 			OR = {
 				tag = GRE
@@ -569,11 +569,11 @@ political_decisions = {
 			set_global_flag = corinth_under_construction_3
 
 			random_list = {
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 365 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 548 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 730 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 913 } } }
-				20 = { 840 = { add_province_modifier = { name = corinth_canal_construction duration = 1095 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 365 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 548 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 730 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 913 } } }
+				20 = { 3503 = { add_province_modifier = { name = corinth_canal_construction duration = 1095 } } }
 			}
 		}
 
