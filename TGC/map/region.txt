@@ -532,7 +532,7 @@
 
 		TUR_824 = { 824 841 853 } # Epirus
 
-		GRE_826 = { 842 839 840 } # Peloponnese
+		GRE_826 = { 842 839 840 3503 } # Peloponnese
 
 		GRE_827 = { 826 827 3500 } # Ionian Islands
 
