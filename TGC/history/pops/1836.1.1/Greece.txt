@@ -2199,3 +2199,41 @@
         size = 250
     }
 }
+#Isthmos (10000/2500 POPS)
+3503 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 20
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 2080
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+}
