@@ -5836,3 +5836,19 @@ ZUL_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;
 ZUL_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;;;;;;;;;;x
 ZUL_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;;;;;x
 ZUL_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;x
+GMA_anarcho_liberal;Ethnikón Rizospastikón Kómma;;;;;;;;;;;;;x
+GMA_anarcho_liberal_2;Symmahia Proodeftikon;;;;;;;;;;;;;x
+GMA_communist;Kommounistikó Kómma Manis;;;;;;;;;;;;;x
+GMA_conservative;Syntagmatikó Kómma;;;;;;;;;;;;;x
+GMA_conservative_2;Kómma Ethnikófronon;;;;;;;;;;;;;x
+GMA_conservative_3;Laikon Komma;;;;;;;;;;;;;x
+GMA_fascist;Ethniki Enosis Manis;;;;;;;;;;;;;x
+GMA_fascist_2;Ethiki Politiki Enosi;;;;;;;;;;;;;x
+GMA_liberal;Ethnikó Kómma;;;;;;;;;;;;;x
+GMA_liberal_2;Neoteristikón Kómma;;;;;;;;;;;;;x
+GMA_liberal_3;Phileleuthero Komma;;;;;;;;;;;;;x
+GMA_reactionary;Kómma ton Paleon;;;;;;;;;;;;;x
+GMA_reactionary_2;Ethiki Parataksi;;;;;;;;;;;;;x
+GMA_reactionary_3;Ethnikón Kómma;;;;;;;;;;;;;x
+GMA_socialist;Sosialistikó Kómma Manis;;;;;;;;;;;;;x
+GMA_socialist_2;Panemaniatiko Sosialistiko Kinima;;;;;;;;;;;;;x

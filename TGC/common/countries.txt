@@ -33,6 +33,7 @@
 		URP		= "countries/United Principalities.txt"
 		VOJ		= "countries/Vojvodina.txt"
 		YUG		= "countries/Yugoslavia.txt"
+		GMA		= "countries/Mani.txt"
 
 	## British Isles ##
 		ENG		= "countries/United Kingdom.txt"

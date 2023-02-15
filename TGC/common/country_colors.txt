@@ -94,6 +94,13 @@ GRE = {
 	color3= { 197 92 106 }
 }
 
+# Mani
+GMA = {
+	color1= { 123 181 211 }
+	color2= { 255 255 255 }
+	color3= { 197 92 106 }
+}
+
 # Moldavia FIXED
 MOL = {
 	color1= { 69 80 169 }
